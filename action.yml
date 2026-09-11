@@ -6,11 +6,11 @@ branding:
   color: "red"
 
 inputs:
-  channel_id:
+  channel_id: "UC2lHfICwD_ZUusYko6jxB6w"
     description: "The channel ID to use for the feed"
     required: false
     default: ""
-  playlist_id:
+  playlist_id: "PLX-DnrsSOQ3I"
     description: "The playlist ID to use for the feed"
     required: false
     default: ""
