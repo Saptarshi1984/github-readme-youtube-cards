@@ -10,7 +10,7 @@ inputs:
     description: "The channel ID to use for the feed"
     required: false
     default: ""
-  playlist_id: "PLX-DnrsSOQ3I"
+  playlist_id: "PLX-DnrsSOQ3I&index=1"
     description: "The playlist ID to use for the feed"
     required: false
     default: ""
